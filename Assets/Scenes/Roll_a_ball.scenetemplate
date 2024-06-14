@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Roll_a_ball
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 9fc0d4010bbf28b4594072e72b8655ab, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 3341322423063380707, guid: 9efd44593693096428bb4d080e7f8eb8, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: ac1925bcba557ee4580170a0e4beae92, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 978d6c962b1722c438ed4646ac91d5fd, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 8300000, guid: 5b2d0725db991dc4ea734d7fccb092d8, type: 3}
+    instantiationMode: 1
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0

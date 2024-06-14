@@ -1,0 +1,147 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1718335296219687, "dur":2410, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718335296222106, "dur":111, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718335296222253, "dur":231, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718335296222498, "dur":2942, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718335296225441, "dur":559604, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718335296785047, "dur":279, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718335296785453, "dur":9257, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1718335296222697, "dur":2753, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718335296225453, "dur":3688, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718335296229214, "dur":164, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718335296229431, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1718335296229755, "dur":217, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\VIDEOS JUEGOS\\Roll a ball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718335296229975, "dur":442, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\VIDEOS JUEGOS\\Roll a ball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718335296229213, "dur":1326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718335296648503, "dur":133085, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718335296784168, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718335296784167, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718335296784253, "dur":754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1718335296222775, "dur":2700, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718335296225478, "dur":627, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718335296226105, "dur":3055, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718335296229442, "dur":125, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718335296229787, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718335296230018, "dur":61, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718335296230142, "dur":64, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718335296411417, "dur":967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":2, "ts":1718335296412409, "dur":372670, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718335296222735, "dur":2723, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718335296225461, "dur":552, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718335296226013, "dur":3145, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718335296229484, "dur":319, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718335296230134, "dur":74, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718335296445247, "dur":1695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":3, "ts":1718335296446968, "dur":338114, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718335296222764, "dur":2703, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718335296225470, "dur":474, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718335296225945, "dur":3218, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718335296229178, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.32f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1718335296229164, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1718335296229280, "dur":194, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.32f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1718335296229278, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1718335296229475, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718335296229607, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718335296229786, "dur":365, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718335296511215, "dur":964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":4, "ts":1718335296512201, "dur":272861, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718335296222807, "dur":2678, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718335296225489, "dur":480, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718335296225969, "dur":3203, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718335296229173, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1718335296229269, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1718335296229521, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\VIDEOS JUEGOS\\Roll a ball\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718335296229519, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718335296229691, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718335296229871, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718335296230074, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718335296345301, "dur":849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":5, "ts":1718335296346171, "dur":438873, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718335296222835, "dur":2659, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718335296225497, "dur":594, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718335296226091, "dur":3056, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718335296229170, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718335296229306, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718335296229497, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\VIDEOS JUEGOS\\Roll a ball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718335296229496, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718335296229896, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718335296477518, "dur":916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":6, "ts":1718335296478457, "dur":306613, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718335296222873, "dur":2631, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718335296225507, "dur":640, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718335296226147, "dur":3005, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718335296229169, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.32f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1718335296229152, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1718335296229299, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718335296229505, "dur":644, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\VIDEOS JUEGOS\\Roll a ball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718335296229503, "dur":647, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718335296313202, "dur":858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":7, "ts":1718335296314081, "dur":470966, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718335296222906, "dur":2608, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718335296225518, "dur":504, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718335296226022, "dur":3143, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718335296229507, "dur":352, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\VIDEOS JUEGOS\\Roll a ball\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718335296229506, "dur":354, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718335296379176, "dur":764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":8, "ts":1718335296379961, "dur":405080, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718335296222945, "dur":2580, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718335296225529, "dur":479, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718335296226008, "dur":3267, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718335296229497, "dur":685, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\VIDEOS JUEGOS\\Roll a ball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1718335296229495, "dur":688, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1718335296543389, "dur":850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":9, "ts":1718335296544261, "dur":240800, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718335296222974, "dur":2563, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718335296225542, "dur":245, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718335296225787, "dur":3381, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718335296229169, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1718335296229300, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1718335296229402, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718335296229556, "dur":62, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718335296229625, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718335296229768, "dur":208, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718335296577127, "dur":843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1718335296577992, "dur":207061, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718335296223006, "dur":2543, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718335296225550, "dur":3620, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718335296229172, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1718335296229460, "dur":50, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718335296229512, "dur":266, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\VIDEOS JUEGOS\\Roll a ball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718335296229511, "dur":267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718335296229779, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718335296229994, "dur":149, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718335296277771, "dur":2067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":11, "ts":1718335296279926, "dur":741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1718335296280697, "dur":632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level8.resS" }}
+,{ "pid":12345, "tid":11, "ts":1718335296281374, "dur":599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level8" }}
+,{ "pid":12345, "tid":11, "ts":1718335296282002, "dur":602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level7.resS" }}
+,{ "pid":12345, "tid":11, "ts":1718335296282630, "dur":587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level7" }}
+,{ "pid":12345, "tid":11, "ts":1718335296283245, "dur":600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level6.resS" }}
+,{ "pid":12345, "tid":11, "ts":1718335296283873, "dur":547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level6" }}
+,{ "pid":12345, "tid":11, "ts":1718335296284447, "dur":708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level5.resS" }}
+,{ "pid":12345, "tid":11, "ts":1718335296285226, "dur":719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level5" }}
+,{ "pid":12345, "tid":11, "ts":1718335296285988, "dur":787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level4.resS" }}
+,{ "pid":12345, "tid":11, "ts":1718335296286804, "dur":622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level4" }}
+,{ "pid":12345, "tid":11, "ts":1718335296287454, "dur":680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level3.resS" }}
+,{ "pid":12345, "tid":11, "ts":1718335296288162, "dur":598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level3" }}
+,{ "pid":12345, "tid":11, "ts":1718335296288795, "dur":779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level2.resS" }}
+,{ "pid":12345, "tid":11, "ts":1718335296289609, "dur":649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level2" }}
+,{ "pid":12345, "tid":11, "ts":1718335296290286, "dur":644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level1.resS" }}
+,{ "pid":12345, "tid":11, "ts":1718335296290957, "dur":586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level1" }}
+,{ "pid":12345, "tid":11, "ts":1718335296291571, "dur":645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level0.resS" }}
+,{ "pid":12345, "tid":11, "ts":1718335296292243, "dur":534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1718335296292805, "dur":1381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1718335296294220, "dur":668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":11, "ts":1718335296294917, "dur":558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1718335296295492, "dur":489550, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718335296223035, "dur":2529, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718335296225565, "dur":3584, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718335296229164, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.32f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1718335296229152, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1718335296229264, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1718335296229501, "dur":777, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\VIDEOS JUEGOS\\Roll a ball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718335296229500, "dur":779, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718335296609538, "dur":1042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Adicto pic/Desktop/ROLL A BALL/Roll a ball_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1718335296610635, "dur":174415, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718335296816163, "dur":716, "ph":"X", "name": "ProfilerWriteOutput" }
+,

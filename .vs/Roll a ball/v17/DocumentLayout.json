@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VIDEOS JUEGOS\\Roll a ball\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D64DFB3-8832-C7E6-3BF8-A99AA2E543A7}|Assembly-CSharp.csproj|e:\\videos juegos\\roll a ball\\assets\\script\\movimientoobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D64DFB3-8832-C7E6-3BF8-A99AA2E543A7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\movimientoobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D64DFB3-8832-C7E6-3BF8-A99AA2E543A7}|Assembly-CSharp.csproj|e:\\videos juegos\\roll a ball\\assets\\script\\jugadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D64DFB3-8832-C7E6-3BF8-A99AA2E543A7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\jugadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D64DFB3-8832-C7E6-3BF8-A99AA2E543A7}|Assembly-CSharp.csproj|E:\\VIDEOS JUEGOS\\Roll a ball\\assets\\script\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D64DFB3-8832-C7E6-3BF8-A99AA2E543A7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D64DFB3-8832-C7E6-3BF8-A99AA2E543A7}|Assembly-CSharp.csproj|E:\\VIDEOS JUEGOS\\Roll a ball\\assets\\script\\menujuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D64DFB3-8832-C7E6-3BF8-A99AA2E543A7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menujuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D64DFB3-8832-C7E6-3BF8-A99AA2E543A7}|Assembly-CSharp.csproj|E:\\VIDEOS JUEGOS\\Roll a ball\\assets\\script\\rotador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D64DFB3-8832-C7E6-3BF8-A99AA2E543A7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rotador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D64DFB3-8832-C7E6-3BF8-A99AA2E543A7}|Assembly-CSharp.csproj|E:\\VIDEOS JUEGOS\\Roll a ball\\assets\\script\\camaracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D64DFB3-8832-C7E6-3BF8-A99AA2E543A7}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camaracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimientoObjeto.cs",
+              "DocumentMoniker": "E:\\VIDEOS JUEGOS\\Roll a ball\\Assets\\Script\\MovimientoObjeto.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MovimientoObjeto.cs",
+              "ToolTip": "E:\\VIDEOS JUEGOS\\Roll a ball\\Assets\\Script\\MovimientoObjeto.cs",
+              "RelativeToolTip": "Assets\\Script\\MovimientoObjeto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:08:13.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuJuego.cs",
+              "DocumentMoniker": "E:\\VIDEOS JUEGOS\\Roll a ball\\Assets\\Script\\MenuJuego.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MenuJuego.cs",
+              "ToolTip": "E:\\VIDEOS JUEGOS\\Roll a ball\\Assets\\Script\\MenuJuego.cs",
+              "RelativeToolTip": "Assets\\Script\\MenuJuego.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T03:05:47.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "E:\\VIDEOS JUEGOS\\Roll a ball\\Assets\\Script\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Triangulo.cs",
+              "ToolTip": "E:\\VIDEOS JUEGOS\\Roll a ball\\Assets\\Script\\Triangulo.cs",
+              "RelativeToolTip": "Assets\\Script\\Triangulo.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:58:51.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rotador.cs",
+              "DocumentMoniker": "E:\\VIDEOS JUEGOS\\Roll a ball\\Assets\\Script\\Rotador.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Rotador.cs",
+              "ToolTip": "E:\\VIDEOS JUEGOS\\Roll a ball\\Assets\\Script\\Rotador.cs",
+              "RelativeToolTip": "Assets\\Script\\Rotador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:04:01.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CamaraController.cs",
+              "DocumentMoniker": "E:\\VIDEOS JUEGOS\\Roll a ball\\Assets\\Script\\CamaraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CamaraController.cs",
+              "ToolTip": "E:\\VIDEOS JUEGOS\\Roll a ball\\Assets\\Script\\CamaraController.cs",
+              "RelativeToolTip": "Assets\\Script\\CamaraController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:44:31.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JugadorController.cs",
+              "DocumentMoniker": "E:\\VIDEOS JUEGOS\\Roll a ball\\Assets\\Script\\JugadorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\JugadorController.cs",
+              "ToolTip": "E:\\VIDEOS JUEGOS\\Roll a ball\\Assets\\Script\\JugadorController.cs",
+              "RelativeToolTip": "Assets\\Script\\JugadorController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAwDEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:03:37.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
